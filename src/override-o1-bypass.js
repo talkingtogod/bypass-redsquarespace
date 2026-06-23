@@ -8,5 +8,5 @@
     });
   `;
   document.documentElement.appendChild(injected);
-  console.log('[bypass] Injected o1 override. Reload to take effect.');
+  console.log('[bypass] Injected o1 override');
 })();
